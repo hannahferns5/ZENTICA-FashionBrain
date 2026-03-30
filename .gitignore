@@ -1,0 +1,44 @@
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Conda
+.conda/
+
+# Environment variables — NEVER push your tokens
+.env
+
+# HuggingFace cache — gigabytes, never push
+.cache/
+~/.cache/
+
+# Model files — too large for GitHub
+models/*.npy
+models/*.pt
+models/*.bin
+models/*.pkl
+
+# Large output files
+outputs/*.png
+
+# But DO keep the HTML map — it's just text, looks great on GitHub
+!outputs/*.html
+!outputs/.gitkeep
+
+# Keep empty folder markers
+!models/.gitkeep
+!data/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
