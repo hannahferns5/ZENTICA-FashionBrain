@@ -22,8 +22,7 @@ models/*.pt
 models/*.bin
 models/*.pkl
 
-# Large output files
-outputs/*.png
+
 
 # But DO keep the HTML map — it's just text, looks great on GitHub
 !outputs/*.html
