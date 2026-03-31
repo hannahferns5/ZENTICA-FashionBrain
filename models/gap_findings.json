@@ -1,0 +1,65 @@
+[
+  {
+    "gap_id": 1,
+    "center_2d": [
+      0.534354563939328,
+      0.6806204944956344
+    ],
+    "competitor_items": [
+      {
+        "label": "HM Item 195",
+        "similarity": 0.7078659534454346
+      },
+      {
+        "label": "HM Item 50",
+        "similarity": 0.6973636746406555
+      },
+      {
+        "label": "HM Item 106",
+        "similarity": 0.6943919658660889
+      }
+    ]
+  },
+  {
+    "gap_id": 2,
+    "center_2d": [
+      0.48973788723088907,
+      0.5398607179272714
+    ],
+    "competitor_items": [
+      {
+        "label": "HM Item 13",
+        "similarity": 0.9305147528648376
+      },
+      {
+        "label": "HM Item 144",
+        "similarity": 0.9286234378814697
+      },
+      {
+        "label": "HM Item 121",
+        "similarity": 0.9246065616607666
+      }
+    ]
+  },
+  {
+    "gap_id": 3,
+    "center_2d": [
+      0.44116926793106787,
+      0.6924645612330199
+    ],
+    "competitor_items": [
+      {
+        "label": "HM Item 195",
+        "similarity": 0.7078659534454346
+      },
+      {
+        "label": "HM Item 50",
+        "similarity": 0.6973636746406555
+      },
+      {
+        "label": "HM Item 106",
+        "similarity": 0.6943919658660889
+      }
+    ]
+  }
+]
